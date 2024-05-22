@@ -1,2 +1,2 @@
 # ✨ Genshin Stella Mod
-See https://genshin.sefinek.net
+Official website: https://stella.sefinek.net
