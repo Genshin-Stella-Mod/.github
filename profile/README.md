@@ -1,5 +1,5 @@
 # ✨ Genshin Stella Mod
-### Official website:
+### Official website
 - https://stella.sefinek.net
 - https://sefinek.net/genshin-stella-mod
 
